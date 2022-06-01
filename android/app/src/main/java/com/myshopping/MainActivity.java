@@ -1,4 +1,4 @@
-package com.myshopping;
+package com.fireBuyBase;
 
 import android.os.Bundle;
 
